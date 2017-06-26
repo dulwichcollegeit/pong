@@ -1,3 +1,5 @@
+# Add some comments
+
 import math
 import pygame
 import random
